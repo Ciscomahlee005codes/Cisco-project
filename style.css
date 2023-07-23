@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+     text-align: center;
+     color: dodgerblue;
+     text-decoration: underline wheat;
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: cursive;
+}
+body{
+    background-color: #242121;
+}
